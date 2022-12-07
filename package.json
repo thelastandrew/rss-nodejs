@@ -1,0 +1,19 @@
+{
+  "name": "02-file-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node 02-file-manager/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelastandrew/rss-nodejs.git"
+  },
+  "keywords": [],
+  "author": "thelastandrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelastandrew/rss-nodejs/issues"
+  },
+  "homepage": "https://github.com/thelastandrew/rss-nodejs#readme"
+}
